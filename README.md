@@ -41,5 +41,25 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 - Bar and column charts – To show their comparisons
 - Click here to view Dashboard
 
+### Key insights/Conclusion
+-	Electronics category have the highest number of reviews, total revenue, product number and average actual price vs discounted price.
+-	Electronic category is one of the categories that have unique products under the three-price range bucket of (<₹200, ₹200–₹500, >₹500) with the total number of 490 which is the highest of the category in this bracket, 3 under <₹200 range, 43 under ₹200–₹500 range and 444 under >₹500 range.
+-	Home & kitchen category is the second highest category that have unique products under the three-price range bucket of (<₹200, ₹200–₹500, >₹500) with the total number of 448, 7 under <₹200 range, 36 under ₹200–₹500 range and 405 under >₹500 range.
+-	Computer & Accessories category is the third of the categories that have unique products under the three-price range bucket of (<₹200, ₹200–₹500, >₹500) with the total number of 375, 8 under <₹200 range, 63 under ₹200–₹500 range and 304 under >₹500 range.
+-	Office & product category is the least of the categories that have unique products under the three-price range bucket of (<₹200, ₹200–₹500, >₹500) with the total number of 31, 15 under <₹200 range, 9 under ₹200–₹500 range and 7 under >₹500 range.
+-	Computer & Accessories category have the highest discount percentage with 94% and Toys & games have the lowest of 0%.
+
+### What I learned
+- How to clean and structure messy Data using Excel
+- Designing intuitive and professional excel dashboard
+- Translating raw data into meaningful and actionable insights
+
+### Contact
+I’m open to full – time role, freelance projects, or collaboration and if you would like to connect or ask questions
+- EmaiI: Taiwomary003@gmail.com
+- LinkedIn: http://www.linkedin.com/in/taiwo-mary-463baa1b3
+
+
+
 
 
