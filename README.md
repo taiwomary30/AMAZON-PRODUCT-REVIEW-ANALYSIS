@@ -39,7 +39,8 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 ### Dashboard features
 - Interactive filter – Slice by Main category and Price range bucket
 - Bar and column charts – To show their comparisons
-- Click here to view Dashboard
+- View Dashboard
+![AMAZON PRODUCT REVIEW DASHBOARD](https://github.com/user-attachments/assets/f27f4a68-93f6-4689-a275-34b57d396ffa)
 
 ### Key insights/Conclusion
 -	Electronics category have the highest number of reviews, total revenue, product number and average actual price vs discounted price.
@@ -55,7 +56,7 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 - Translating raw data into meaningful and actionable insights
 
 ### Contact
-I’m open to full – time role, freelance projects, or collaboration and if you would like to connect or ask questions
+I’m open to internship role, full – time role, freelance projects, or collaboration and if you would like to connect or ask questions
 - EmaiI: Taiwomary003@gmail.com
 - LinkedIn: http://www.linkedin.com/in/taiwo-mary-463baa1b3
 
